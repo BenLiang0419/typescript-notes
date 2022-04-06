@@ -1,0 +1,20 @@
+{
+  "name": "typescript-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BenLiang0419/typescript-notes.git",
+  "author": "liangjs <asd153200>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@types/jest": "^27.4.1"
+  }
+}
